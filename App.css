@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-color: blueviolet;
+}
+.App-header {  
+  min-height: 20vh;
+  text-align: center;
+  font-size: calc(50px + 5vmin);
+  color: #DE5D48;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  @font-face {
+    font-family: 'SaoTorpes';
+    src: url('SaoTorpes.otf') format('otf');
+  }
+   
+                                                
+}
+  .content{ 
+  min-height: 5vh;
+  text-align: left;
+  font-size: 33px;
+  color: white;
+  list-style-type: circle; 
+  list-style: disc;
+  margin-left: 5%;
+
+  
+  }
+  body {
+    background-color: blueviolet;
+  }
+   
+
+ 
